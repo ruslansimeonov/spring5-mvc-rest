@@ -13,4 +13,5 @@
             <xs:element type="customersType" name="customers"/>
         </xs:sequence>
     </xs:complexType>
+
 </xs:schema>
